@@ -10,7 +10,7 @@ Tags: SUTD, GitHub, Python, Digital World, 10.009, DW - Physical Chemistry - 2D 
 
 DISCLAIMER: Solutions are provided as is to the best of the author's understanding. It is known that PSETs differ from year to year. Use this cache wisely. Questions papers are included for reference only, all rights to the PDFs belong to their respective SUTD creators.<br />
 
-Note: Past year exam papers can be accessed here:<br />
+[Note] Past year exam papers can be accessed here:<br />
 https://app.box.com/s/0ynnuya54qn4r9lia9q8nug6wwlumegd (Mid-terms)<br />
 https://app.box.com/s/h1a5k40tynn9f3n2tyhpw52uh0ybzrdi (Finals)<br />
 
