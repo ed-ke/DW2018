@@ -8,3 +8,5 @@ Check the bottom of the Week 5 Notebook for a combined DW-CHEM solution that inc
 
 Tags: SUTD, GitHub, Python, Digital World, 10.009, DW - Physical Chemistry - 2D Assignment, Computing Schrödinger’s Equations, Vocareum
 
+DISCLAIMER: Solutions are provided as is to the best of the author's understanding. It is known that PSETs differ from year to year. Use this cache wisely.
+
