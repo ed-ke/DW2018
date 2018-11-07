@@ -1,5 +1,5 @@
 # DW2018
-2018 - 10.009 : The Digital World - Solution Cache 
+2018 - 10.009 : The Digital World - Solution Cache (Python 3)
 
 Your all-in-one solution cache for the weekly PSETs (Cohort/Homework/Extras), past year exam solutions, and DW-CHEM deliverables in Jupyter Notebook format. 
 Week 2 PSET is rather straight forward and is hence omitted.
