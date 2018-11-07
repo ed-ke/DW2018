@@ -6,6 +6,8 @@ Week 2 PSET is rather straight forward and is hence omitted.
 Solutions for DW-CHEM is included in the Jupyter Notebook labelled with the week it is due.
 Check the bottom of the Week 5 Notebook for a combined DW-CHEM solution that includes Week 2 submissions.
 
+Exam solutions from and before 2015 is omitted due to large differences in syllabus and the exam standard of using Python 2 synthax then. 
+
 Tags: SUTD, GitHub, Python, Digital World, 10.009, DW - Physical Chemistry - 2D Assignment, Computing Schrödinger’s Equations, Vocareum, Term 3
 
 DISCLAIMER: Solutions are provided as is to the best of the author's understanding. It is known that PSETs differ from year to year. Use this cache wisely. Questions papers are included for reference only, all rights to the PDFs belong to their respective SUTD creators.<br />
