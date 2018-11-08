@@ -16,5 +16,5 @@ https://app.box.com/s/0ynnuya54qn4r9lia9q8nug6wwlumegd (Mid-terms)<br />
 https://app.box.com/s/h1a5k40tynn9f3n2tyhpw52uh0ybzrdi (Finals)<br />
 
 To do:<br />
-Week 1 & 2 solutions (although trivial), 2018 exam papers.
+Week 1 & 2 solutions, 2018 exam papers.
 
